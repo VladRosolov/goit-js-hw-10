@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladRosolov/goit-js-hw-10.git"
+    "url": "git+https://github.com/goitacademy/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VladRosolov/goit-js-hw-10/issues"
+    "url": "https://github.com/goitacademy/goit-js-hw-10/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
@@ -28,6 +28,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
